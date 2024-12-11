@@ -1,0 +1,10 @@
+build_cache:
+    compilation_count_since_last_purge: 6
+cache:
+    builder-api:
+        v3/boards/byvid/pid/0x10c4/0xea60:
+            data: "null"
+            ts: 2024-12-10T18:51:44.369888273Z
+installation:
+    id: ba32f19a-e420-4a8a-b3ad-d290bc4f7793
+    secret: e189fd88-4bf5-479c-b44d-b470ae205d18
